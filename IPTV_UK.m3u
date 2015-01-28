@@ -2,6 +2,9 @@
 #EXTINF:-1, [COLOR yellow]Updated 15/11/14 @ 15:34 [/COLOR]  \par
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  \par
 \par
+#EXTINF:-1 tvg-logo="BBCOne.png" group-title="UK Live TV", BBC One\par
+http://tvplayer.com/watch/89\par
+\par
 #EXTINF:-1 tvg-logo="BBCNews.png" group-title="UK Live TV", BBC News\par
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25\par
 \par
