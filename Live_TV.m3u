@@ -127,4 +127,80 @@ http://212.250.46.41....100.0.227:3001
 http://212.250.46.41....100.0.228:3001
 
 #EXTINF:-1,BoxNation
-http://212.250.46.41....100.0.229:3001 
+http://212.250.46.41....100.0.229:3001
+
+
+#EXTINF:-1,ABD - USA
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+
+#EXTINF:-1,1 on 1 Boxing TV
+http://204.107.26.145:1935/live/1988.low.stream/HasBahCa.m3u8
+
+#EXTINF:-1,ABC
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=rGCi7bg0Qxvs8q7Sl13l swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=1&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,AMC HD
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=TfRQx7deUAuncJwM047m swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=147&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,American Horrors
+http://204.107.26.252:1935/live/393.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,Cartoon Network
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=08pydvp1b7ZwZb3a5TW1 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=6&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,CBS
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=Ger61uLQ4fedzvjRjrB7 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=127&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,City of Boston TV English
+rtmp://streaming.cityofboston.gov/live/cable
+
+#EXTINF:-1,Clubbing TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,CW USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live/ playpath=IWSyIjvWgHRCMM7MEJoZ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1 pageUrl=http://zerocast.tv
+
+#EXTINF:-1,Denver 8 TV mms
+mms://207.7.154.96/G0080_002?wmcache=0
+
+#EXTINF:-1,Ebru TV
+http://204.107.26.252:1935/live/914.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,eScapes HD TV
+http://204.107.26.252:1935/live/341.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,ESPN America
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.142:1935/stream/ playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=y264x236v59406144333r2q2b413p2q2u274q2u2z294&adx=&stream=z2b4549474s254m5e42323v26403w2l2z274y2u4o4k5n434w233m22464b4v2u2u2a4v274a443r223x284s4w5k5i2k5p5r4b4b4g466p2o2n4r204p2q274h5t2a4s294q2g524n5d4y27474e4k5c4y2x233v26474g564q2h59413b4z2w234t2o2l2r204p2q2r2g5p4&sooor=MzI=&str=is&idom=www.firstrow1.eu
+
+#EXTINF:-1,ESPN USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=YEZib0gVfqaDdaFn9MQ9 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=39&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,FOX
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=96&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,Free Speech TV
+http://204.107.26.252:1935/live/697.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,FX USA
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live/ playpath=VCV8SViFVBv2nX5RQwKI swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 flashver=WIN\202012,0,0,77 timeout=15 token=3a439185c0f4b61f swfVfy=1 pageUrl=http://zerocast.tv
+
+#EXTINF:-1,Ginx
+http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,Havoc Television
+http://204.107.26.252:1935/live/335.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,HBO
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=148&id=&width=580&height=400&autostart=true&strech=
+
+#EXTINF:-1,HSN TV
+rtsp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31
+
+#EXTINF:-1,iFlix TV
+http://204.107.26.252:1935/live/1991.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1,Mission TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+
+#EXTINF:-1,NBC
+rtmp://$OPT:rtmp-raw=rtmp://rtmp.zerocast.tv:1935/live playpath=3GdoAHRAxgZNzmQZL29l swfUrl=http://20f3d0755392726229d8-7f14bc94688a30e4a2bde38a5eab6b77.r63.cf5.rackcdn.com/player.swf pageUrl=http://zerocast.tv/embed3.php?a=83&id=&width=580&height=400&autostart=true&strech=
